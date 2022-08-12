@@ -17,7 +17,7 @@ Instalação passo a passo
 
 4 - .\venv\Scripts\activate
 
-5 - pip install to-requirements.txt
+5 - pip install -r requirements.txt
 
 6 - python app.py
 
